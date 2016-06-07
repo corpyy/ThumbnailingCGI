@@ -1,0 +1,39 @@
+#wrap {
+width:960px;
+margin:10px auto;
+}
+
+header {
+background: linear-gradient(#e6e6e6, #FAFAFA);
+}
+
+#contents {
+float:left;
+width:700px;
+height:800px;
+margin:10px 0px 10px 0px;
+background-color: rgba(140,140,140,0.1);
+}
+
+#sidenavi {
+float:right;
+width:220px;
+height:800px;
+margin:10px 10px 10px 0px;
+background-color: rgba(140,140,140,0.1);
+}
+
+
+footer {
+clear:both;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+display: block;
+}
+
+.appIconBig{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
